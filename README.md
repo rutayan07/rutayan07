@@ -97,6 +97,7 @@
 
 <p>
   <a href="https://github.com/rutayan07">GitHub</a>
+  <a href="patrarutayan@gmail.com">Gmail</a>
 </p>
 
 ---
