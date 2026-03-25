@@ -1,16 +1,96 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Rutayan</h1>
+<h3 align="center">🚀 Frontend Developer | React & JavaScript Enthusiast</h3>
 
-<!--
-**rutayan07/rutayan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rutayan07&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;React+Lover;Building+Cool+Projects;Always+Learning" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+* 💻 I build modern web apps using **React & JavaScript**
+* 🌱 Currently learning **Full Stack Development**
+* ⚡ Focused on improving **UI/UX + Performance**
+* 🎯 Goal: Become a **job-ready developer**
+
+---
+
+## 🚀 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,node,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rutayan07&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutayan07&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 📰 News API Dashboard
+
+👉 https://github.com/rutayan07/news_api
+
+* Built using **React + Tailwind CSS**
+* Displays categorized news with clean UI
+* Fully responsive dashboard
+
+---
+
+### 🔐 JWT Authentication System
+
+👉 https://github.com/rutayan07/jwt-auth
+
+* Implements secure authentication
+* Token-based login system
+* Backend integration
+
+---
+
+### 📚 E-Library Website
+
+👉 https://github.com/rutayan07/e-library-rutayan
+
+* HTML/CSS based project
+* Structured UI for book management
+
+---
+
+### 🧪 More Projects
+
+* https://github.com/rutayan07/my-app
+* https://github.com/rutayan07/jabhaskript
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rutayan07&theme=tokyonight&margin-w=10" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p>
+  <a href="https://github.com/rutayan07">GitHub</a>
+</p>
+
+---
+
+## 💡 Quote
+
+⭐ *"I don't just learn code, I build with it."*
