@@ -77,9 +77,19 @@
 
 ## 🏆 Achievements
 
+## 📜 Certifications
+
+<h3 align="center">🏆 HackNation - NIRMAN 4.0</h3>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rutayan07&theme=tokyonight&margin-w=10" />
+  <img src="https://github.com/rutayan07/rutayan07/blob/main/certificate.jpg" width="750" />
 </p>
+
+<p align="center">
+  📍 Silicon University, Odisha <br/>
+  📅 Feb 6 – 8, 2025
+</p>
+
 
 ---
 
