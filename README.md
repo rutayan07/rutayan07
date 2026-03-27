@@ -71,7 +71,7 @@
 ### 🧪 More Projects
 
 * https://github.com/rutayan07/my-app
-* https://github.com/rutayan07/jabhaskript
+* https://github.com/rutayan07/student-crud.git
 
 ---
 
