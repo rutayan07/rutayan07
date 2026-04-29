@@ -39,6 +39,16 @@
 
 ## 🔥 Featured Projects
 
+### 📂 TEAM SYNC- Human Resource Database System
+
+👉 https://github.com/rutayan07/human-resource-database-system.git
+
+* Designed HR system using SRS, DFD, and UML diagrams, covering full employee lifecycle.
+* Built interactive dashboard with employee management, search, and project assignment features.
+* Implemented modular architecture and real-world HR workflows.
+
+---
+
 ### 📰 News API Dashboard
 
 👉 https://github.com/rutayan07/news_api
