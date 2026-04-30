@@ -92,7 +92,7 @@
 <h3 align="center">🏆 HackNation - NIRMAN 4.0</h3>
 
 <p align="center">
-  <img src="https://github.com/rutayan07/rutayan07/blob/main/certificate.jpg" width="750" />
+  <img width="1197" height="851" alt="image" src="https://github.com/user-attachments/assets/99bbff0a-2dd6-41f5-99de-4421e3725623" />
 </p>
 
 <p align="center">
