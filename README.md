@@ -92,7 +92,7 @@
 <h3 align="center">🏆 HackNation - NIRMAN 4.0</h3>
 
 <p align="center">
-  <img width="1197" height="851" alt="image" src="https://github.com/user-attachments/assets/99bbff0a-2dd6-41f5-99de-4421e3725623" />
+  <img width="797" height="551" alt="image" src="https://github.com/user-attachments/assets/99bbff0a-2dd6-41f5-99de-4421e3725623" />
 </p>
 
 <p align="center">
