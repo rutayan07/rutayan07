@@ -1,117 +1,17 @@
-<h1 align="center">Hey 👋, I'm Rutayan</h1>
-<h3 align="center">🚀 Frontend Developer | React & JavaScript Enthusiast</h3>
+# Hi, I'm Rutayan
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rutayan07&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+Final-year B.Tech CSE student at Silicon University, Bhubaneswar, graduating in 2027. Looking for software roles as a fresher.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;React+Lover;Building+Cool+Projects;Always+Learning" />
-</p>
+**Skills:** Python, Java, JavaScript, React, MySQL, Git
 
----
+## Projects
 
-## 🧑‍💻 About Me
+- [EV charging station using solar energy](https://github.com/rutayan07/ev-charging-station-using-solar-energy): ESP32 solar tracker sending live data to Supabase, with a React + Tailwind dashboard. A small end-to-end prototype.
+- [Student CRUD](https://github.com/rutayan07/student-crud): React + Express app with CRUD, validation and basic authentication, using JSON-file storage.
+- [News dashboard](https://github.com/rutayan07/news_api): React news app with multiple categories.
+- [E-Library](https://github.com/rutayan07/e-library-rutayan): HTML/CSS/JS front end with Java Servlets, JDBC and MySQL.
+- [TeamSync](https://github.com/rutayan07/human-resource-database-system): HR database system static prototype, built from SRS, DFD and UML design.
 
-* 💻 I build modern web apps using **React & JavaScript**
-* 🌱 Currently learning **Full Stack Development**
-* ⚡ Focused on improving **UI/UX + Performance**
-* 🎯 Goal: Become a **job-ready developer**
+## Links
 
----
-
-## 🚀 Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,node,git,github" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rutayan07&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutayan07&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Featured Projects
-
-### 📂 TEAM SYNC- Human Resource Database System
-
-👉 https://github.com/rutayan07/human-resource-database-system.git
-
-* Designed HR system using SRS, DFD, and UML diagrams, covering full employee lifecycle.
-* Built interactive dashboard with employee management, search, and project assignment features.
-* Implemented modular architecture and real-world HR workflows.
-
----
-
-### 📰 News API Dashboard
-
-👉 https://github.com/rutayan07/news_api
-
-* Built using **React + Tailwind CSS**
-* Displays categorized news with clean UI
-* Fully responsive dashboard
-
----
-
-### 🔐 JWT Authentication System
-
-👉 https://github.com/rutayan07/jwt-auth
-
-* Implements secure authentication
-* Token-based login system
-* Backend integration
-
----
-
-### 📚 E-Library Website
-
-👉 https://github.com/rutayan07/e-library-rutayan
-
-* HTML/CSS based project
-* Structured UI for book management
-
----
-
-### 🧪 More Projects
-
-* https://github.com/rutayan07/my-app
-* https://github.com/rutayan07/student-crud.git
-
----
-
-## 🏆 Achievements
-
-## 📜 Certifications
-
-<h3 align="center">🏆 HackNation - NIRMAN 4.0</h3>
-
-<p align="center">
-  <img width="797" height="551" alt="image" src="https://github.com/user-attachments/assets/99bbff0a-2dd6-41f5-99de-4421e3725623" />
-</p>
-
-<p align="center">
-  📍 Silicon University, Odisha <br/>
-  📅 Feb 6 – 8, 2025
-</p>
-
-
----
-
-## 🌐 Connect with Me
-
-<p>
-  <a href="https://github.com/rutayan07">GitHub</a>
-  <a href="patrarutayan@gmail.com">Gmail</a>
-</p>
-
----
-
-## 💡 Quote
-
-⭐ *"I don't just learn code, I build with it."*
+[LinkedIn](https://www.linkedin.com/in/rutayan-patra)
